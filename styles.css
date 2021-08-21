@@ -1,0 +1,7 @@
+.polaroid {
+    width: 100%;
+    transition: 0.5s all ease-in-out;
+}
+.polaroid:hover  {
+    transform: scale(1.1);
+} 
